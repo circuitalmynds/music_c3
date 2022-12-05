@@ -23,6 +23,13 @@
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/My Time-SzteEyQJb1o.mp4?raw=true"
         },
         {
+            "id": "Ce5qmAj9XX4",
+            "name": "P.Tchaikovsky. Italian Capriccio-Ce5qmAj9XX4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/P.Tchaikovsky. Italian Capriccio-Ce5qmAj9XX4.mp4",
+            "size": 80.070949,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/P.Tchaikovsky. Italian Capriccio-Ce5qmAj9XX4.mp4?raw=true"
+        },
+        {
             "id": "zfiISFiozg8",
             "name": "Depeche Mode - Get the Balance Right! (Official Video)-zfiISFiozg8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Depeche Mode - Get the Balance Right! (Official Video)-zfiISFiozg8.mp4",
@@ -30,11 +37,25 @@
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Depeche Mode - Get the Balance Right! (Official Video)-zfiISFiozg8.mp4?raw=true"
         },
         {
+            "id": "OuKsbtES83I",
+            "name": "Liszt - Legende S. 175 - St. Francis of Paola walking on the water, S. 175 No.2 (Andante)-OuKsbtES83I.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Liszt - Legende S. 175 - St. Francis of Paola walking on the water, S. 175 No.2 (Andante)-OuKsbtES83I.mp4",
+            "size": 5.716057,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Liszt - Legende S. 175 - St. Francis of Paola walking on the water, S. 175 No.2 (Andante)-OuKsbtES83I.mp4?raw=true"
+        },
+        {
             "id": "juligEIi3Sg",
             "name": "Cabaret Voltaire - I Want You (7' Mix)-juligEIi3Sg.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Cabaret Voltaire - I Want You (7' Mix)-juligEIi3Sg.mp4",
             "size": 15.165018,
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Cabaret Voltaire - I Want You (7' Mix)-juligEIi3Sg.mp4?raw=true"
+        },
+        {
+            "id": "cJu5zMb8MDA",
+            "name": "Paga Papa-cJu5zMb8MDA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Paga Papa-cJu5zMb8MDA.mp4",
+            "size": 4.218646,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Paga Papa-cJu5zMb8MDA.mp4?raw=true"
         },
         {
             "id": "_MBkfJvCkD4",
@@ -58,11 +79,32 @@
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Keyboard Sonata No. 14 in C Major, Hob. XVI, 3 - III. Menuet-PVx71NZ9Cls.mp4?raw=true"
         },
         {
+            "id": "8QsmQPmiaSw",
+            "name": "TCHAIKOVSKY - Casse Noisette-8QsmQPmiaSw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/TCHAIKOVSKY - Casse Noisette-8QsmQPmiaSw.mp4",
+            "size": 26.875591,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/TCHAIKOVSKY - Casse Noisette-8QsmQPmiaSw.mp4?raw=true"
+        },
+        {
+            "id": "RiPfpHGXgnc",
+            "name": "Liszt - Comment, disaient-ils, S.276-RiPfpHGXgnc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Liszt - Comment, disaient-ils, S.276-RiPfpHGXgnc.mp4",
+            "size": 1.5988559999999998,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Liszt - Comment, disaient-ils, S.276-RiPfpHGXgnc.mp4?raw=true"
+        },
+        {
             "id": "_KeIo2ieiWQ",
             "name": "Stanley's Stiff Chickens-_KeIo2ieiWQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Stanley's Stiff Chickens-_KeIo2ieiWQ.mp4",
             "size": 12.077511,
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Stanley's Stiff Chickens-_KeIo2ieiWQ.mp4?raw=true"
+        },
+        {
+            "id": "qvWs2R13lJE",
+            "name": "It's Too Late-qvWs2R13lJE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/It's Too Late-qvWs2R13lJE.mp4",
+            "size": 5.227835,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/It's Too Late-qvWs2R13lJE.mp4?raw=true"
         },
         {
             "id": "9Z-CHbn5O74",
@@ -72,5 +114,5 @@
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Fascinating Rhythm-9Z-CHbn5O74.mp4?raw=true"
         }
     ],
-    "total_size": 101.15584299999999
+    "total_size": 224.86377700000003
 }
