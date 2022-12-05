@@ -1,5 +1,76 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "yDmCp_kgjiA",
+            "name": "Giorgio and Chris lato A-yDmCp_kgjiA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Giorgio and Chris lato A-yDmCp_kgjiA.mp4",
+            "size": 22.011172,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Giorgio and Chris lato A-yDmCp_kgjiA.mp4?raw=true"
+        },
+        {
+            "id": "6t5SwSeccpw",
+            "name": "Dancehall Rock (feat. Cutty Ranks)-6t5SwSeccpw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Dancehall Rock (feat. Cutty Ranks)-6t5SwSeccpw.mp4",
+            "size": 4.624358,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Dancehall Rock (feat. Cutty Ranks)-6t5SwSeccpw.mp4?raw=true"
+        },
+        {
+            "id": "SzteEyQJb1o",
+            "name": "My Time-SzteEyQJb1o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/My Time-SzteEyQJb1o.mp4",
+            "size": 4.279726999999999,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/My Time-SzteEyQJb1o.mp4?raw=true"
+        },
+        {
+            "id": "zfiISFiozg8",
+            "name": "Depeche Mode - Get the Balance Right! (Official Video)-zfiISFiozg8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Depeche Mode - Get the Balance Right! (Official Video)-zfiISFiozg8.mp4",
+            "size": 11.071024999999999,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Depeche Mode - Get the Balance Right! (Official Video)-zfiISFiozg8.mp4?raw=true"
+        },
+        {
+            "id": "juligEIi3Sg",
+            "name": "Cabaret Voltaire - I Want You (7' Mix)-juligEIi3Sg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Cabaret Voltaire - I Want You (7' Mix)-juligEIi3Sg.mp4",
+            "size": 15.165018,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Cabaret Voltaire - I Want You (7' Mix)-juligEIi3Sg.mp4?raw=true"
+        },
+        {
+            "id": "_MBkfJvCkD4",
+            "name": "No. 2 - Allegro non assai-_MBkfJvCkD4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/No. 2 - Allegro non assai-_MBkfJvCkD4.mp4",
+            "size": 5.020478,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/No. 2 - Allegro non assai-_MBkfJvCkD4.mp4?raw=true"
+        },
+        {
+            "id": "BdCTYLdaBfQ",
+            "name": "Alexander Glazunov  - Concert Waltzes for orchestra Op. 47 and Op. 51 (1893_1894)-BdCTYLdaBfQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Alexander Glazunov  - Concert Waltzes for orchestra Op. 47 and Op. 51 (1893_1894)-BdCTYLdaBfQ.mp4",
+            "size": 20.029408,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Alexander Glazunov  - Concert Waltzes for orchestra Op. 47 and Op. 51 (1893_1894)-BdCTYLdaBfQ.mp4?raw=true"
+        },
+        {
+            "id": "PVx71NZ9Cls",
+            "name": "Keyboard Sonata No. 14 in C Major, Hob. XVI, 3 - III. Menuet-PVx71NZ9Cls.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Keyboard Sonata No. 14 in C Major, Hob. XVI, 3 - III. Menuet-PVx71NZ9Cls.mp4",
+            "size": 3.281983,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Keyboard Sonata No. 14 in C Major, Hob. XVI, 3 - III. Menuet-PVx71NZ9Cls.mp4?raw=true"
+        },
+        {
+            "id": "_KeIo2ieiWQ",
+            "name": "Stanley's Stiff Chickens-_KeIo2ieiWQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Stanley's Stiff Chickens-_KeIo2ieiWQ.mp4",
+            "size": 12.077511,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Stanley's Stiff Chickens-_KeIo2ieiWQ.mp4?raw=true"
+        },
+        {
+            "id": "9Z-CHbn5O74",
+            "name": "Fascinating Rhythm-9Z-CHbn5O74.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Fascinating Rhythm-9Z-CHbn5O74.mp4",
+            "size": 3.595163,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Fascinating Rhythm-9Z-CHbn5O74.mp4?raw=true"
+        }
+    ],
+    "total_size": 101.15584299999999
 }
