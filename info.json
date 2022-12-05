@@ -2,11 +2,25 @@
     "available_space": true,
     "content": [
         {
+            "id": "V-W3bP1fp4c",
+            "name": "Liszt - Via Crucis - Station VI - Sancta Veronica-V-W3bP1fp4c.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Liszt - Via Crucis - Station VI - Sancta Veronica-V-W3bP1fp4c.mp4",
+            "size": 2.135282,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Liszt - Via Crucis - Station VI - Sancta Veronica-V-W3bP1fp4c.mp4?raw=true"
+        },
+        {
             "id": "yDmCp_kgjiA",
             "name": "Giorgio and Chris lato A-yDmCp_kgjiA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Giorgio and Chris lato A-yDmCp_kgjiA.mp4",
             "size": 22.011172,
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Giorgio and Chris lato A-yDmCp_kgjiA.mp4?raw=true"
+        },
+        {
+            "id": "LIYK3CxZ0WI",
+            "name": "Ana Curra - Una noche sin ti (EP completo)-LIYK3CxZ0WI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Ana Curra - Una noche sin ti (EP completo)-LIYK3CxZ0WI.mp4",
+            "size": 19.836748999999998,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Ana Curra - Una noche sin ti (EP completo)-LIYK3CxZ0WI.mp4?raw=true"
         },
         {
             "id": "6t5SwSeccpw",
@@ -42,6 +56,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Liszt - Legende S. 175 - St. Francis of Paola walking on the water, S. 175 No.2 (Andante)-OuKsbtES83I.mp4",
             "size": 5.716057,
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Liszt - Legende S. 175 - St. Francis of Paola walking on the water, S. 175 No.2 (Andante)-OuKsbtES83I.mp4?raw=true"
+        },
+        {
+            "id": "k8jrfy42xiw",
+            "name": "Nov\u00e1k - Slovak Suite _ South Bohemian Suite + Presentation (reference recording  - Franti\u0161ek Vajnar)-k8jrfy42xiw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c3/videos/Nov\u00e1k - Slovak Suite _ South Bohemian Suite + Presentation (reference recording  - Franti\u0161ek Vajnar)-k8jrfy42xiw.mp4",
+            "size": 78.32862899999999,
+            "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Nov\u00e1k - Slovak Suite _ South Bohemian Suite + Presentation (reference recording  - Franti\u0161ek Vajnar)-k8jrfy42xiw.mp4?raw=true"
         },
         {
             "id": "juligEIi3Sg",
@@ -114,5 +135,5 @@
             "url": "https://github.com/circuitalmynds/music_c3/blob/main/videos/Fascinating Rhythm-9Z-CHbn5O74.mp4?raw=true"
         }
     ],
-    "total_size": 224.86377700000003
+    "total_size": 325.1644370000001
 }
